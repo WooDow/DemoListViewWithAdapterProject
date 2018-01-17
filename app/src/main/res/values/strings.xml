@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoListViewWithAdapter</string>
+
+    <string-array name="myColors">
+        <item>olive</item>
+        <item>yellowgreen</item>
+        <item>white</item>
+    </string-array>
+</resources>
